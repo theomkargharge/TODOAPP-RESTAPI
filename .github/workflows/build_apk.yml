@@ -13,10 +13,10 @@ jobs:
 
     steps:
      - name: Checkout Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       
      - name: Steup Flutter
-        uses: subosito/flutter-action@v1
+        uses: subosito/flutter-action@v4
         with:
             flutter-version: '3.13.1'
       
