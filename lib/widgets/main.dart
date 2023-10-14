@@ -6,6 +6,7 @@ void main() {
   runApp(const MyApp());
 }
 
+// I am the G.O.A.T Flutter Developer
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
